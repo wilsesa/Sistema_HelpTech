@@ -1,0 +1,13 @@
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\bin\Debug\Sistema_HelpTech.exe
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\bin\Debug\Sistema_HelpTech.exe.config
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.Form1.resources
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.frmLogin.resources
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.frmPrincipal.resources
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.frmUsuario.resources
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.Properties.Resources.resources
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.csproj.GenerateResource.cache
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.exe
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\obj\Debug\Sistema_HelpTech.pdb
+C:\Users\ADM\source\repos\Sistema_HelpTech\Sistema_HelpTech\bin\Debug\Sistema_HelpTech.pdb
