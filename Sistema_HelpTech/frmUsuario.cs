@@ -63,7 +63,7 @@ namespace Sistema_HelpTech
         private void btnPesquisar_Click(object sender, EventArgs e)
         {
             SqlConnection sql = new SqlConnection(@"Data Source=PC\SQLEXPRESS;Initial Catalog=TEST;Integrated Security=True");
-            //SqlConnection sql = new SqlConnection(@"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=helptech;Data Source=PC\SQLEXPRESS");
+            
             SqlCommand command = new SqlCommand("select * from usuario where Iduser=@Iduser", sql);
 
             command.Parameters.Add("@Iduser", SqlDbType.VarChar).Value = txtIduser.Text;
